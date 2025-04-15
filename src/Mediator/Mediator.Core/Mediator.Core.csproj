@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
+    <RootNamespace>Mediator.Core</RootNamespace>
+    <Copyright>2024 AlanDLann</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
