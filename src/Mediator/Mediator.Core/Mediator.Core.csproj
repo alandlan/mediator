@@ -5,6 +5,9 @@
     <Nullable>enable</Nullable>
     <RootNamespace>Mediator.Core</RootNamespace>
     <Copyright>2024 AlanDLann</Copyright>
+    <Company>AlanDLann</Company>
+    <Authors>Alan Martins</Authors>
+    <Description>A library of Mediator</Description>
   </PropertyGroup>
 
   <ItemGroup>
